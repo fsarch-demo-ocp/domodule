@@ -1,0 +1,1 @@
+This is a module for Digital Ocean Droplets for testing terraform-operator
